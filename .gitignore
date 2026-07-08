@@ -1,0 +1,12 @@
+node_modules/
+dist/
+*.vsix
+.vscode-test/
+.DS_Store
+*.log
+out/
+.env
+.idea/
+*.swp
+*.swo
+.mingwsync-cache/
